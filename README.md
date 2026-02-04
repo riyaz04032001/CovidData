@@ -31,3 +31,12 @@ A real-world **Data Engineering project** built using **Azure Data Factory (ADF)
 - **GitHub** – version control + documentation
 
 ---
+
+---
+
+## 👤 Author
+**Riyaz Dudekula**  
+- LinkedIn: https://linkedin.com/in/driyaz0401  
+- Email: mailto:driyaz0401@gmail.com
+
+
